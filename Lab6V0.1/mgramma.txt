@@ -1,0 +1,9 @@
+x1 = 1123 = sadq
++ = x1
+x2 = ( ( 1 + 100 ) / 2 ) + 1 * 2
+print x1
+print x1 + x1
+config hex
+print x1
+config bin
+print x1

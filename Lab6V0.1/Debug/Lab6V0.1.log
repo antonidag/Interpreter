@@ -1,0 +1,7 @@
+﻿  Interpreter.cpp
+c:\users\antonidag\documents\visual studio 2017\projects\lab6v0.1\lab6v0.1\lab6v0.1\interpreter.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\antonidag\documents\visual studio 2017\projects\lab6v0.1\lab6v0.1\lab6v0.1\interpreter.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\antonidag\documents\visual studio 2017\projects\lab6v0.1\lab6v0.1\lab6v0.1\interpreter.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\antonidag\documents\visual studio 2017\projects\lab6v0.1\lab6v0.1\lab6v0.1\interpreter.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\antonidag\documents\visual studio 2017\projects\lab6v0.1\lab6v0.1\lab6v0.1\interpreter.cpp(196): warning C4018: '>': signed/unsigned mismatch
+  Lab6V0.1.vcxproj -> C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Lab6V0.1\Lab6V0.1\Debug\Lab6V0.1.exe
